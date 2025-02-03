@@ -1,6 +1,10 @@
 {
   "name": "proyecto-frontend",
   "version": "0.0.0",
+  "engines": {
+    "node": "14.20",
+      "npm": "9.4.1"
+  },
   "scripts": {
     "add-hooks": "scripts/add-hooks.sh",
     "ng": "ng",
