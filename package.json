@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "engines": {
     "node": "18.19",
-    "npm": "9.4.1"
+    "npm": "10.2.4"
   },
   "scripts": {
     "add-hooks": "scripts/add-hooks.sh",
@@ -29,6 +29,7 @@
     "@auth0/angular-jwt": "^5.1.2",
     "bootstrap": "^5.2.3",
     "bootstrap-icons": "^1.10.2",
+    "express": "^4.21.2",
     "icons": "^1.0.0",
     "ngx-toastr": "^16.0.1",
     "rxjs": "~7.5.0",
